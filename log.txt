@@ -1,32 +1,13 @@
 <html>
+
 	<h1>Latest Version: v0.01</h2>
 	<br>
 	<b>Version v0.001</b>
 	<ul>
-		<li>aaaaa</li>
-		<li>bbb</li>
-		<li>ccccccc</li>
+		<li>Not released yet</li>
+		<li>coming soon</li>
+		<li>blah blah blah</li>
 	</ul>
-	<br>
-	<b>Version v0.324</b>
-	<ul>
-		<li>aaaaa</li>
-		<li>bbb</li>
-		<li>ccccccc</li>
-	</ul>
-	<br>
-	<b>Version v0.76547</b>
-	<ul>
-		<li>aaaaa</li>
-		<li>bbb</li>
-		<li>ccccccc</li>
-	</ul>
-	<br>
-	<b>Version v0.2342</b>
-	<ul>
-		<li>aaaaa</li>
-		<li>bbb</li>
-		<li>ccccccc</li>
-	</ul>
+
 	
 </html>
